@@ -4,7 +4,7 @@
 replicaCount: 1
 
 image:
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   repository: 663665160542.dkr.ecr.ca-central-1.amazonaws.com/nodebackend
   version: main-b4303ae
 
