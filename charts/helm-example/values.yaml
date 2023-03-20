@@ -6,7 +6,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   repository: 663665160542.dkr.ecr.ca-central-1.amazonaws.com/nodebackend
-  version: main-cbeef46
+  version: main-b4303ae
 
 imagePullSecrets: []
 nameOverride: ""
