@@ -6,7 +6,7 @@ replicaCount: 1
 image:
   pullPolicy: Always
   repository: 663665160542.dkr.ecr.ca-central-1.amazonaws.com/nodebackend
-  version: main-03e058b
+  version: main-134481d
 
 imagePullSecrets: []
 nameOverride: ""
