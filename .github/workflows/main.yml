@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: demo-gitops
+name: demo-gitops.
 permissions:
   id-token: write # required to use OIDC authentication
   contents: write # required
