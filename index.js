@@ -7,7 +7,7 @@ app = express();
 
 app.get("/", (req, res) => {
     res.json({
-        message: "Hello from node app V2 is working well...eben did it",
+        message: "Hello from node app V2 is working",
         date: new Date(),
         version: process.env.npm_package_version,
         os: os.platform()
